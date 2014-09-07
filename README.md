@@ -1,4 +1,4 @@
-Breakfast Perfect- Hack to detect if a Hotel guess has wake up and partner wiht resturants nearby to provide best breakfast experience
+Breakfast Perfect- Hack to detect if a Hotel guess has wake up and partner with resturants nearby to provide best breakfast experience
 -------------------------------------------
 
 
@@ -7,7 +7,7 @@ Breakfast Perfect- Hack to detect if a Hotel guess has wake up and partner wiht 
 <br>
 ## Usage:
 
-This is an Arudino device that connect with Intel Galileo 2 system. It include a .h file, a .cpp files. The system uses Sinch API to provide messaging to hotel guesses, hotels and restaurants to request and confirm the breakfast request.  It also connect with Pebble to notify users when the breakfast is ready.      
+This is an Arudino device that connect with Intel Galileo 2 system. It include a .h file, a .cpp files. The system uses Sinch API to provide messaging to hotel guesses, hotels and restaurants to request and confirm the breakfast from their guesses.  It also connect with Pebble to notify users when the breakfast is ready.      
 
 ### What 's next 
 The next version will integrate with Yelp and local restaurant directory to provide unique local breakfast experience for hotels and B&Bs guesses.  We are also planning on better hardware integration and upgrade to make it real useful for hotels and B&Bs to engage with their guesses.   
